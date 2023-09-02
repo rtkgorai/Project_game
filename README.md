@@ -20,6 +20,8 @@ Rules:The rules of the "Guess the Number" game are as simple as a cup of tea:
 
 
 
+
+
 Game:Stone, Paper or Scissors
 
 Create a simple command-line game of "Stone, Paper, Scissors" using Python. This classic game allows two players i.e. you and computer to choose from three options: stone, paper, or scissors. The game determines the winner based on predefined rules: stone beats scissors, scissors beats paper, and paper beats stone.Features:
