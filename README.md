@@ -2,7 +2,9 @@
 Guess the number and Stone, Paper or Scissors
 
 Game:Guess the number
+
 Create an interactive game where the computer selects a random number, and the player tries to guess it within a limited number of attempts. This game tests the player's ability to make informed guesses and provides feedback after each attempt.
+
 Rules:The rules of the "Guess the Number" game are as simple as a cup of tea:
     The computer randomly selects a number within a specified range.
     The player attempts to guess the selected number .
